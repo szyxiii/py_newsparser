@@ -1,0 +1,12 @@
+{
+	"telegram": {
+		"api_id": 0,
+		"api_hash": "",
+		"session": "telegram",
+		"recipient": "@szyxiii"
+	},
+	"mongo": {
+		"host": "localhost",
+		"port": 27017
+	}
+}
